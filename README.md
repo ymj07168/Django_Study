@@ -4,6 +4,7 @@
 * 목표 : 인프런 강의 완강하기, Django를 이용해 웹 사이트 제작하기
 * 기간 : 2022.4.3 ~ 2022. 6.30
 * 정기회의 : 수요일 오전 11시
+* 참고 사이트 : 인프런 강의 ['파이썬으로 장고(Django) 공략하기: 입문'](https://www.inflearn.com/course/django-course/dashboard)
 * 언어 : 파이썬, HTML, CSS, JavaScripts
 
 ## 스터디 규칙
