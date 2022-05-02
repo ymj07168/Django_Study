@@ -23,4 +23,4 @@
  4 | 5/15 | :seedling: 섹션 5. ORM </br> Django ORM 개요 </br> 데이터 조회하기 </br> 데이터 필터링하기 </br> 페이징하기 </br> Column Lookup으로 복잡한 조건 검색하기 </br> 데이터 수정/삭제하기 | `미완료`
 5 | 5/22 | :seedling: 섹션 6. CRUD 구현 </br> | `미완료`
 6 | 6/19 | :seedling: 섹션 7. Relation </br> | `미완료`
-7 | 6/26 | :seedling: 섹션 8. 기능 추가 </br> :seedling: 섹션9. 배포 | `미완료`
+7 | 6/26 | :seedling: 섹션 8. 기능 추가 </br> :seedling: 섹션 9. 배포 | `미완료`
