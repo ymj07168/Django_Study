@@ -1,4 +1,4 @@
-# Django_Study
+# :seedling: Django_Study :seedling:
 > WIN 장고 1팀 '장고하송' 스터디 내용 정리
 
 * 목표 : 인프런 강의 완강하기, Django를 이용해 웹 사이트 제작하기
